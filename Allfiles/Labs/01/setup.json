@@ -38,12 +38,6 @@
           "description": "Password for SQL User"
         }
       },
-        "adxPoolName": {
-          "type": "String",
-          "metadata": {
-            "description": "Name for Data Explorer pool"
-          }
-      },
       "uniqueSuffix": {
         "type": "String",
         "metadata": {
