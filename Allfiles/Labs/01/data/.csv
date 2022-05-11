@@ -1,0 +1,2 @@
+CustomerKey,CustomerName,CustomerAddress1,CustomerAddress2,CustomerCity,CustomerState,CustomerZipCode,CustomerIndustry,Signed_MSA,ContactLName,ContactFName,ContactTitle,ContactEmail,ContactPrimaryPhone,ContactCellular,ContactDepartment
+1,Contoso,1 Microsoft Way,Suite 100,Redmond,WA,98052,Services,Yes,Herring,James,Sales Specialist,jamesh@contoso.com,281-000-0000,281-000-0001,Sales
