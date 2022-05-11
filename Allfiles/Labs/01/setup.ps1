@@ -145,4 +145,3 @@ Get-ChildItem "./data/*.csv" -File | Foreach-Object {
 }
 
 write-host "Script completed at $(Get-Date)"
-
